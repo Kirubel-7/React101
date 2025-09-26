@@ -1,2 +1,2 @@
-# JavaScript101
-My JavaScript learning progress and projects
+# React101
+My React learning progress and projects
