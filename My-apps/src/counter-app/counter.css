@@ -1,9 +1,4 @@
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 98vh;
-}
+
 .counter-container{
     text-align: center;
     font-family: 'Franklin Gothic Medium', sans-serif;
